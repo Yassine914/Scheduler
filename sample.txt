@@ -1,0 +1,4 @@
+DSA A Sun 2 s: Sun 3
+ARC A Tue 2 s: Mon 2
+SWE A Wed 2 s: Mon 3
+WEB A Thu 3 s: Wed 3
