@@ -18,6 +18,7 @@ each row is as follows: [] is optional
 course_name class lecture_day lecture_slot [section_day] [section_slot] [lab_day] [lab_slot] "Dr. John Doe" "Eng. Jane Doe"
 ```
 NOTE: a course can have a lecture only withouut a section or a lab. however a lab requires the course to have a lecture and a section.
+
 NOTE: slot is 1 through 5 which translates to: 1 is 8:30 to 10:10 ...... 5 is 4:30 to 6:10
 
 ### Example Data:
